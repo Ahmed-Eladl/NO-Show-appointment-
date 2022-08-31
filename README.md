@@ -8,7 +8,7 @@ This dataset collects information from 100k medical appointments in Brazil and i
 ● ‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.
 
 
-###Question(s) for Analysis
+### Question(s) for Analysis
 1)in this project, we will try to find what are the factors that are important for us to know in order to predict if a patient will show up for their scheduled appointment?
 
 2)is it will help us to understand the benifit of Brasilian welfare program Bolsa Família?
